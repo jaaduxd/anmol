@@ -38,9 +38,9 @@ a {
 }
 
 .post-container img {
-  width: 100%;
+  width: 700px;
   padding: 10px 0;
-  height: unset;
+  height: 900px;
 }
 
 .post-container p {
